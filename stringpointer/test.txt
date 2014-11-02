@@ -1,0 +1,9 @@
+We have a string 'hello'. Here's the length: 5
+We have an empty string, lets copy 'hello' into it: hello
+Are the 2 strings we made equal: 1
+We now have another string 'world'. Lets combine 'hello' and 'world': helloworld
+Where is the letter 'e' in 'hello'?: 1
+Are 'hello' and 'helloworld' equal?: 0
+Lets cut up our string from position 2 onwards: lloworld
+Lets delete the repeats: lowrd
+Lets reverse it now: drwol

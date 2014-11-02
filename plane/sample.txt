@@ -1,0 +1,27 @@
+Initialize a Matrix of 4 rows, with 4,3,5,8 columns in eachrespective row.
+[ ][ ][ ][ ]
+[ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ]
+Now let's put an 'X' in the last row, 2nd position.
+[ ][ ][ ][ ]
+[ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][X][ ][ ][ ][ ][ ][ ]
+Now let's fill row 1 with all A's
+[A][A][A][A]
+[ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][X][ ][ ][ ][ ][ ][ ]
+Now let's find the location of the X.
+3,1
+Now let's remove that X.
+[A][A][A][A]
+[ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ]
+Now let's clear the first row.
+[ ][ ][ ][ ]
+[ ][ ][ ]
+[ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ]

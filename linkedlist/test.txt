@@ -1,0 +1,18 @@
+[0][1][2][3][4]
+
+
+This is the last one: 4
+
+This is the item at pos 2 2
+
+Now let's append a 7: 
+[0][1][2][3][4][7]
+
+Insert a 9 in pos 4: 
+[0][1][2][3][9][4][7]
+
+What's the size? 7
+we deleted the last one:
+[0][1][2][3][9][4]
+
+the number 3 is in position: 3
